@@ -1,7 +1,13 @@
 package rough;
 
 import org.testng.annotations.DataProvider;
+
+
 import org.testng.annotations.Test;
+
+
+
+public static webdriver driver;
 
 public class testParameterization {
 	
